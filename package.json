@@ -1,0 +1,12 @@
+{
+  "name": "practica2",
+  "version": "1.0.0",
+  "description": "1. Inicializar el repositorio con `git init`.\r 2. Crear un repositorio remoto en GitHub.\r 3. Enlazar el repositorio local con el remoto.\r 4. Añadir y subir los archivos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
